@@ -122,12 +122,12 @@ header{
         .descr-text{
             max-width: 346px;
             color: #000000;
-            h5{
+            h2{
                 font-size: 40px;
                 line-height: 45px;
                 margin-bottom: 28px;
             }
-            h6{
+            h3{
                 font-size: 15px;
                 line-height: 21px;
                 margin-bottom: 21px;
@@ -818,11 +818,11 @@ header{
             max-width: 601px;
             .descr-text{
                 max-width: 320px;
-                h5{
+                h2{
                     font-size: 23px;
                     line-height: 33px;
                 }
-                h6{
+                h3{
                     font-size: 15px;
                     line-height: 21px;
                     margin-bottom: 25px;
@@ -959,7 +959,6 @@ header{
 }
 
 @media screen and (max-width: 768px){
-
     // Section About PlonqX
     .section-about-device{
         margin-top: 60px;
@@ -1061,12 +1060,12 @@ header{
             max-width: 272px;
             .descr-text{
                 max-width: 100%;
-                h5{
+                h2{
                     font-size: 16px;
                     line-height: 22px;
                     margin-bottom: 28px;
                 }
-                h6{
+                h3{
                     font-size: 11px;
                     line-height: 16px;
                     margin-bottom: 15px;
