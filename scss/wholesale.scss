@@ -365,12 +365,15 @@ header{
 			}
 		}
 		.footer-copy{
-			p{
-				text-align: end;
-				font-size: 13px;
-				line-height: 21px;
-				color: #AAAAAA;
-			}
+            a{
+                text-decoration: none;
+                p{
+                    text-align: end;
+                    font-size: 13px;
+                    line-height: 21px;
+                    color: #AAAAAA;
+                }
+            }
 		}
 	}
 	.footer-descr{
@@ -522,9 +525,11 @@ header{
                 }
             }
             .footer-copy{
-                p{
-                    font-size: 11px;
-                    line-height: 17px;
+                a{
+                    p{
+                        font-size: 11px;
+                        line-height: 17px;
+                    }
                 }
             }
         }

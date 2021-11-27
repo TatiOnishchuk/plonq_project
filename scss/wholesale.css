@@ -530,7 +530,11 @@ header .header-top ul li a:hover {
   border-radius: 6px;
 }
 
-.footer .footer-social .footer-copy p {
+.footer .footer-social .footer-copy a {
+  text-decoration: none;
+}
+
+.footer .footer-social .footer-copy a p {
   text-align: end;
   font-size: 13px;
   line-height: 21px;
@@ -719,7 +723,7 @@ header .header-top ul li a:hover {
     height: 19px;
     margin-bottom: 9px;
   }
-  .footer .footer-social .footer-copy p {
+  .footer .footer-social .footer-copy a p {
     font-size: 11px;
     line-height: 17px;
   }
